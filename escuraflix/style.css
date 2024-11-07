@@ -1,0 +1,21 @@
+body {
+    background: black;
+    color: bisque;
+    font-family: "Great Vibes", cursive;
+}
+header{
+    border-bottom: solid 2px blueviolet;
+    padding: 0px;
+    font-size: 32px;
+    color: blueviolet;
+}
+section{
+    background-color: azure;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+div{ 
+   margin-right: 5%;
+}
